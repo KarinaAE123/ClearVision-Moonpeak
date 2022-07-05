@@ -8,7 +8,8 @@
 * @website https://betterdiscord.app/theme/ClearVision
 */
 @import url("https://clearvision.gitlab.io/v6/main.css");
-@import url('https://fonts.googleapis.com/css2?family=Caveat');
+@import url('https://fonts.googleapis.com/css2?family=Space Mono');
+@import url('https://fonts.googleapis.com/css2?family=Rubik Moonrocks');
 :root {
 --main-color: #138cdb;
 --hover-color: #6bc7e8;
@@ -20,8 +21,8 @@
 --dnd-color: #041017;
 --streamig-color: #e9f6fc;
 --offline-color: #0b3145;
---main-font: 'Caveat';
---code-font: 'Caveat';
+--main-font: 'Rubik Moonrocks';
+--code-font: 'Space Mono';
 --text-normal: #dcdddeff;
 --text-muted: #72767dff;
 --channels-width: 220px;
